@@ -1,0 +1,641 @@
+AMP:All
+AMP:Non-200 Response
+AMP:Missing Non-AMP Return Link
+AMP:Missing Canonical to Non-AMP
+AMP:Non-Indexable Canonical
+AMP:Indexable
+AMP:Non-Indexable
+AMP:Missing <html amp> Tag
+AMP:Missing/Invalid <!doctype html> Tag
+AMP:Missing <head> Tag
+AMP:Missing <body> Tag
+AMP:Missing Canonical
+AMP:Missing/Invalid <meta charset> Tag
+AMP:Missing/Invalid <meta viewport> Tag
+AMP:Missing/Invalid AMP Script
+AMP:Missing/Invalid AMP Boilerplate
+AMP:Contains Disallowed HTML
+AMP:Other Validation Errors
+Analytics:All
+Analytics:Sessions Above 0
+Analytics:Bounce Rate Above 70%
+Analytics:No GA Data
+Analytics:Non-Indexable with GA Data
+Analytics:Orphan URLs
+Canonicals:All
+Canonicals:Contains Canonical
+Canonicals:Self Referencing
+Canonicals:Canonicalised
+Canonicals:Missing
+Canonicals:Multiple
+Canonicals:Non-Indexable Canonical
+Canonicals:Multiple Conflicting
+Canonicals:Canonical Is Relative
+Canonicals:Unlinked
+Canonicals:Outside <head>
+Change Detection:All
+Change Detection:Word Count
+Change Detection:Crawl Depth
+Change Detection:Indexability
+Change Detection:Page Titles
+Change Detection:H1
+Change Detection:Meta Description
+Change Detection:Inlinks
+Change Detection:Unique Inlinks
+Change Detection:Internal Outlinks
+Change Detection:Unique Internal Outlinks
+Change Detection:External Outlinks
+Change Detection:Unique External Outlinks
+Change Detection:Structured Data Unique Types
+Change Detection:Content
+Content:All
+Content:Spelling Errors
+Content:Grammar Errors
+Content:Near Duplicates
+Content:Exact Duplicates
+Content:Low Content Pages
+Content:Readability Difficult
+Content:Readability Very Difficult
+Content:Lorem Ipsum Placeholder
+Content:Soft 404 Pages
+Custom Extraction:All
+Custom Extraction:Extractor 1
+Custom Extraction:Extractor 2
+Custom Extraction:Extractor 3
+Custom Extraction:Extractor 4
+Custom Extraction:Extractor 5
+Custom Extraction:Extractor 6
+Custom Extraction:Extractor 7
+Custom Extraction:Extractor 8
+Custom Extraction:Extractor 9
+Custom Extraction:Extractor 10
+Custom Extraction:Extractor 11
+Custom Extraction:Extractor 12
+Custom Extraction:Extractor 13
+Custom Extraction:Extractor 14
+Custom Extraction:Extractor 15
+Custom Extraction:Extractor 16
+Custom Extraction:Extractor 17
+Custom Extraction:Extractor 18
+Custom Extraction:Extractor 19
+Custom Extraction:Extractor 20
+Custom Extraction:Extractor 21
+Custom Extraction:Extractor 22
+Custom Extraction:Extractor 23
+Custom Extraction:Extractor 24
+Custom Extraction:Extractor 25
+Custom Extraction:Extractor 26
+Custom Extraction:Extractor 27
+Custom Extraction:Extractor 28
+Custom Extraction:Extractor 29
+Custom Extraction:Extractor 30
+Custom Extraction:Extractor 31
+Custom Extraction:Extractor 32
+Custom Extraction:Extractor 33
+Custom Extraction:Extractor 34
+Custom Extraction:Extractor 35
+Custom Extraction:Extractor 36
+Custom Extraction:Extractor 37
+Custom Extraction:Extractor 38
+Custom Extraction:Extractor 39
+Custom Extraction:Extractor 40
+Custom Extraction:Extractor 41
+Custom Extraction:Extractor 42
+Custom Extraction:Extractor 43
+Custom Extraction:Extractor 44
+Custom Extraction:Extractor 45
+Custom Extraction:Extractor 46
+Custom Extraction:Extractor 47
+Custom Extraction:Extractor 48
+Custom Extraction:Extractor 49
+Custom Extraction:Extractor 50
+Custom Extraction:Extractor 51
+Custom Extraction:Extractor 52
+Custom Extraction:Extractor 53
+Custom Extraction:Extractor 54
+Custom Extraction:Extractor 55
+Custom Extraction:Extractor 56
+Custom Extraction:Extractor 57
+Custom Extraction:Extractor 58
+Custom Extraction:Extractor 59
+Custom Extraction:Extractor 60
+Custom Extraction:Extractor 61
+Custom Extraction:Extractor 62
+Custom Extraction:Extractor 63
+Custom Extraction:Extractor 64
+Custom Extraction:Extractor 65
+Custom Extraction:Extractor 66
+Custom Extraction:Extractor 67
+Custom Extraction:Extractor 68
+Custom Extraction:Extractor 69
+Custom Extraction:Extractor 70
+Custom Extraction:Extractor 71
+Custom Extraction:Extractor 72
+Custom Extraction:Extractor 73
+Custom Extraction:Extractor 74
+Custom Extraction:Extractor 75
+Custom Extraction:Extractor 76
+Custom Extraction:Extractor 77
+Custom Extraction:Extractor 78
+Custom Extraction:Extractor 79
+Custom Extraction:Extractor 80
+Custom Extraction:Extractor 81
+Custom Extraction:Extractor 82
+Custom Extraction:Extractor 83
+Custom Extraction:Extractor 84
+Custom Extraction:Extractor 85
+Custom Extraction:Extractor 86
+Custom Extraction:Extractor 87
+Custom Extraction:Extractor 88
+Custom Extraction:Extractor 89
+Custom Extraction:Extractor 90
+Custom Extraction:Extractor 91
+Custom Extraction:Extractor 92
+Custom Extraction:Extractor 93
+Custom Extraction:Extractor 94
+Custom Extraction:Extractor 95
+Custom Extraction:Extractor 96
+Custom Extraction:Extractor 97
+Custom Extraction:Extractor 98
+Custom Extraction:Extractor 99
+Custom Extraction:Extractor 100
+Custom JavaScript:All
+Custom JavaScript:Extractor 1
+Custom JavaScript:Extractor 2
+Custom JavaScript:Extractor 3
+Custom JavaScript:Extractor 4
+Custom JavaScript:Extractor 5
+Custom JavaScript:Extractor 6
+Custom JavaScript:Extractor 7
+Custom JavaScript:Extractor 8
+Custom JavaScript:Extractor 9
+Custom JavaScript:Extractor 10
+Custom JavaScript:Extractor 11
+Custom JavaScript:Extractor 12
+Custom JavaScript:Extractor 13
+Custom JavaScript:Extractor 14
+Custom JavaScript:Extractor 15
+Custom JavaScript:Extractor 16
+Custom JavaScript:Extractor 17
+Custom JavaScript:Extractor 18
+Custom JavaScript:Extractor 19
+Custom JavaScript:Extractor 20
+Custom JavaScript:Extractor 21
+Custom JavaScript:Extractor 22
+Custom JavaScript:Extractor 23
+Custom JavaScript:Extractor 24
+Custom JavaScript:Extractor 25
+Custom JavaScript:Extractor 26
+Custom JavaScript:Extractor 27
+Custom JavaScript:Extractor 28
+Custom JavaScript:Extractor 29
+Custom JavaScript:Extractor 30
+Custom JavaScript:Extractor 31
+Custom JavaScript:Extractor 32
+Custom JavaScript:Extractor 33
+Custom JavaScript:Extractor 34
+Custom JavaScript:Extractor 35
+Custom JavaScript:Extractor 36
+Custom JavaScript:Extractor 37
+Custom JavaScript:Extractor 38
+Custom JavaScript:Extractor 39
+Custom JavaScript:Extractor 40
+Custom JavaScript:Extractor 41
+Custom JavaScript:Extractor 42
+Custom JavaScript:Extractor 43
+Custom JavaScript:Extractor 44
+Custom JavaScript:Extractor 45
+Custom JavaScript:Extractor 46
+Custom JavaScript:Extractor 47
+Custom JavaScript:Extractor 48
+Custom JavaScript:Extractor 49
+Custom JavaScript:Extractor 50
+Custom JavaScript:Extractor 51
+Custom JavaScript:Extractor 52
+Custom JavaScript:Extractor 53
+Custom JavaScript:Extractor 54
+Custom JavaScript:Extractor 55
+Custom JavaScript:Extractor 56
+Custom JavaScript:Extractor 57
+Custom JavaScript:Extractor 58
+Custom JavaScript:Extractor 59
+Custom JavaScript:Extractor 60
+Custom JavaScript:Extractor 61
+Custom JavaScript:Extractor 62
+Custom JavaScript:Extractor 63
+Custom JavaScript:Extractor 64
+Custom JavaScript:Extractor 65
+Custom JavaScript:Extractor 66
+Custom JavaScript:Extractor 67
+Custom JavaScript:Extractor 68
+Custom JavaScript:Extractor 69
+Custom JavaScript:Extractor 70
+Custom JavaScript:Extractor 71
+Custom JavaScript:Extractor 72
+Custom JavaScript:Extractor 73
+Custom JavaScript:Extractor 74
+Custom JavaScript:Extractor 75
+Custom JavaScript:Extractor 76
+Custom JavaScript:Extractor 77
+Custom JavaScript:Extractor 78
+Custom JavaScript:Extractor 79
+Custom JavaScript:Extractor 80
+Custom JavaScript:Extractor 81
+Custom JavaScript:Extractor 82
+Custom JavaScript:Extractor 83
+Custom JavaScript:Extractor 84
+Custom JavaScript:Extractor 85
+Custom JavaScript:Extractor 86
+Custom JavaScript:Extractor 87
+Custom JavaScript:Extractor 88
+Custom JavaScript:Extractor 89
+Custom JavaScript:Extractor 90
+Custom JavaScript:Extractor 91
+Custom JavaScript:Extractor 92
+Custom JavaScript:Extractor 93
+Custom JavaScript:Extractor 94
+Custom JavaScript:Extractor 95
+Custom JavaScript:Extractor 96
+Custom JavaScript:Extractor 97
+Custom JavaScript:Extractor 98
+Custom JavaScript:Extractor 99
+Custom Search:All
+Custom Search:Filter 1
+Custom Search:Filter 2
+Custom Search:Filter 3
+Custom Search:Filter 4
+Custom Search:Filter 5
+Custom Search:Filter 6
+Custom Search:Filter 7
+Custom Search:Filter 8
+Custom Search:Filter 9
+Custom Search:Filter 10
+Custom Search:Filter 11
+Custom Search:Filter 12
+Custom Search:Filter 13
+Custom Search:Filter 14
+Custom Search:Filter 15
+Custom Search:Filter 16
+Custom Search:Filter 17
+Custom Search:Filter 18
+Custom Search:Filter 19
+Custom Search:Filter 20
+Custom Search:Filter 21
+Custom Search:Filter 22
+Custom Search:Filter 23
+Custom Search:Filter 24
+Custom Search:Filter 25
+Custom Search:Filter 26
+Custom Search:Filter 27
+Custom Search:Filter 28
+Custom Search:Filter 29
+Custom Search:Filter 30
+Custom Search:Filter 31
+Custom Search:Filter 32
+Custom Search:Filter 33
+Custom Search:Filter 34
+Custom Search:Filter 35
+Custom Search:Filter 36
+Custom Search:Filter 37
+Custom Search:Filter 38
+Custom Search:Filter 39
+Custom Search:Filter 40
+Custom Search:Filter 41
+Custom Search:Filter 42
+Custom Search:Filter 43
+Custom Search:Filter 44
+Custom Search:Filter 45
+Custom Search:Filter 46
+Custom Search:Filter 47
+Custom Search:Filter 48
+Custom Search:Filter 49
+Custom Search:Filter 50
+Custom Search:Filter 51
+Custom Search:Filter 52
+Custom Search:Filter 53
+Custom Search:Filter 54
+Custom Search:Filter 55
+Custom Search:Filter 56
+Custom Search:Filter 57
+Custom Search:Filter 58
+Custom Search:Filter 59
+Custom Search:Filter 60
+Custom Search:Filter 61
+Custom Search:Filter 62
+Custom Search:Filter 63
+Custom Search:Filter 64
+Custom Search:Filter 65
+Custom Search:Filter 66
+Custom Search:Filter 67
+Custom Search:Filter 68
+Custom Search:Filter 69
+Custom Search:Filter 70
+Custom Search:Filter 71
+Custom Search:Filter 72
+Custom Search:Filter 73
+Custom Search:Filter 74
+Custom Search:Filter 75
+Custom Search:Filter 76
+Custom Search:Filter 77
+Custom Search:Filter 78
+Custom Search:Filter 79
+Custom Search:Filter 80
+Custom Search:Filter 81
+Custom Search:Filter 82
+Custom Search:Filter 83
+Custom Search:Filter 84
+Custom Search:Filter 85
+Custom Search:Filter 86
+Custom Search:Filter 87
+Custom Search:Filter 88
+Custom Search:Filter 89
+Custom Search:Filter 90
+Custom Search:Filter 91
+Custom Search:Filter 92
+Custom Search:Filter 93
+Custom Search:Filter 94
+Custom Search:Filter 95
+Custom Search:Filter 96
+Custom Search:Filter 97
+Custom Search:Filter 98
+Custom Search:Filter 99
+Custom Search:Filter 100
+Directives:All
+Directives:Index
+Directives:Noindex
+Directives:Follow
+Directives:Nofollow
+Directives:None
+Directives:NoArchive
+Directives:NoSnippet
+Directives:Max-Snippet
+Directives:Max-Image-Preview
+Directives:Max-Video-Preview
+Directives:NoODP
+Directives:NoYDIR
+Directives:NoImageIndex
+Directives:NoTranslate
+Directives:Unavailable_After
+Directives:Refresh
+Directives:Outside <head>
+External:All
+External:HTML
+External:JavaScript
+External:CSS
+External:Images
+External:Plugins
+External:Media
+External:Fonts
+External:XML
+External:PDF
+External:Other
+External:Unknown
+H1:All
+H1:Missing
+H1:Duplicate
+H1:Over X Characters
+H1:Multiple
+H1:Alt Text in H1
+H1:Non-Sequential
+H2:All
+H2:Missing
+H2:Duplicate
+H2:Over X Characters
+H2:Multiple
+H2:Non-Sequential
+Hreflang:All
+Hreflang:Contains hreflang
+Hreflang:Non-200 hreflang URLs
+Hreflang:Unlinked hreflang URLs
+Hreflang:Missing Return Links
+Hreflang:Inconsistent Language & Region Return Links
+Hreflang:Non-Canonical Return Links
+Hreflang:Noindex Return Links
+Hreflang:Incorrect Language & Region Codes
+Hreflang:Multiple Entries
+Hreflang:Missing Self Reference
+Hreflang:Not Using Canonical
+Hreflang:Missing X-Default
+Hreflang:Missing
+Hreflang:Outside <head>
+Images:All
+Images:Over X KB
+Images:Missing Alt Text
+Images:Missing Alt Attribute
+Images:Alt Text Over X Characters
+Images:Background Images
+Images:Incorrectly Sized Images
+Images:Missing Size Attributes
+Internal:All
+Internal:HTML
+Internal:JavaScript
+Internal:CSS
+Internal:Images
+Internal:Plugins
+Internal:Media
+Internal:Fonts
+Internal:XML
+Internal:PDF
+Internal:Other
+Internal:Unknown
+JavaScript:All
+JavaScript:Uses Old AJAX Crawling Scheme URLs
+JavaScript:Uses Old AJAX Crawling Scheme Meta Fragment Tag
+JavaScript:Page Title Only in Rendered HTML
+JavaScript:Page Title Updated by JavaScript
+JavaScript:H1 Only in Rendered HTML
+JavaScript:H1 Updated by JavaScript
+JavaScript:Meta Description Only in Rendered HTML
+JavaScript:Meta Description Updated by JavaScript
+JavaScript:Canonical Only in Rendered HTML
+JavaScript:Canonical Mismatch
+JavaScript:Noindex Only in Original HTML
+JavaScript:Nofollow Only in Original HTML
+JavaScript:Contains JavaScript Links
+JavaScript:Contains JavaScript Content
+JavaScript:Pages with Blocked Resources
+JavaScript:Pages with JavaScript Errors
+JavaScript:Pages with JavaScript Warnings
+JavaScript:Pages with Chrome Issues
+Link Metrics:All
+Links:All
+Links:Pages Without Internal Outlinks
+Links:Internal Nofollow Outlinks
+Links:Internal Outlinks With No Anchor Text
+Links:Non-Descriptive Anchor Text In Internal Outlinks
+Links:Pages With High External Outlinks
+Links:Pages With High Internal Outlinks
+Links:Follow & Nofollow Internal Inlinks To Page
+Links:Internal Nofollow Inlinks Only
+Links:Pages With High Crawl Depth
+Links:Outlinks To Localhost
+Links:Non-Indexable Page Inlinks Only
+Meta Description:All
+Meta Description:Missing
+Meta Description:Duplicate
+Meta Description:Over X Characters
+Meta Description:Below X Characters
+Meta Description:Over X Pixels
+Meta Description:Below X Pixels
+Meta Description:Multiple
+Meta Description:Outside <head>
+Meta Keywords:All
+Meta Keywords:Missing
+Meta Keywords:Duplicate
+Meta Keywords:Multiple
+Mobile:All
+Mobile:Viewport Not Set
+Mobile:Target Size
+Mobile:Content Not Sized Correctly
+Mobile:Illegible Font Size
+Mobile:Contains Unsupported Plugins
+Mobile:Mobile Alternate Link
+Page Titles:All
+Page Titles:Missing
+Page Titles:Duplicate
+Page Titles:Over X Characters
+Page Titles:Below X Characters
+Page Titles:Over X Pixels
+Page Titles:Below X Pixels
+Page Titles:Same as H1
+Page Titles:Multiple
+Page Titles:Outside <head>
+PageSpeed:All
+PageSpeed:Eliminate Render-Blocking Resources
+PageSpeed:Defer Offscreen Images
+PageSpeed:Efficiently Encode Images
+PageSpeed:Properly Size Images
+PageSpeed:Minify CSS
+PageSpeed:Minify JavaScript
+PageSpeed:Reduce Unused CSS
+PageSpeed:Reduce Unused JavaScript
+PageSpeed:Serve Images in Next-Gen Formats
+PageSpeed:Enable Text Compression
+PageSpeed:Preconnect to Required Origins
+PageSpeed:Reduce Server Response Times (TTFB)
+PageSpeed:Avoid Multiple Page Redirects
+PageSpeed:Preload Key Requests
+PageSpeed:Use Video Formats for Animated Content
+PageSpeed:Avoid Excessive DOM Size
+PageSpeed:Reduce JavaScript Execution Time
+PageSpeed:Serve Static Assets with an Efficient Cache Policy
+PageSpeed:Minimize Main-Thread Work
+PageSpeed:Ensure Text Remains Visible During Webfont Load
+PageSpeed:Image Elements Do Not Have Explicit Width & Height
+PageSpeed:Avoid Large Layout Shifts
+PageSpeed:Avoid Serving Legacy JavaScript to Modern Browsers
+PageSpeed:Request Errors
+Pagination:All
+Pagination:Contains Pagination
+Pagination:First Page
+Pagination:Paginated 2+ Pages
+Pagination:Pagination URL Not in Anchor Tag
+Pagination:Non-200 Pagination URLs
+Pagination:Unlinked Pagination URLs
+Pagination:Non-Indexable
+Pagination:Multiple Pagination URLs
+Pagination:Pagination Loop
+Pagination:Sequence Error
+Response Codes:All
+Response Codes:Blocked by Robots.txt
+Response Codes:Blocked Resource
+Response Codes:No Response
+Response Codes:Success (2xx)
+Response Codes:Redirection (3xx)
+Response Codes:Redirection (JavaScript)
+Response Codes:Redirection (Meta Refresh)
+Response Codes:Client Error (4xx)
+Response Codes:Server Error (5xx)
+Response Codes:Internal All
+Response Codes:Internal Blocked by Robots.txt
+Response Codes:Internal Blocked Resource
+Response Codes:Internal No Response
+Response Codes:Internal Success (2xx)
+Response Codes:Internal Redirection (3xx)
+Response Codes:Internal Redirection (JavaScript)
+Response Codes:Internal Redirection (Meta Refresh)
+Response Codes:Internal Redirect Chain
+Response Codes:Internal Redirect Loop
+Response Codes:Internal Client Error (4xx)
+Response Codes:Internal Server Error (5xx)
+Response Codes:External All
+Response Codes:External Blocked by Robots.txt
+Response Codes:External Blocked Resource
+Response Codes:External No Response
+Response Codes:External Success (2xx)
+Response Codes:External Redirection (3xx)
+Response Codes:External Redirection (JavaScript)
+Response Codes:External Redirection (Meta Refresh)
+Response Codes:External Client Error (4xx)
+Response Codes:External Server Error (5xx)
+Search Console:All
+Search Console:Clicks Above 0
+Search Console:No Search Analytics Data
+Search Console:Non-Indexable with Search Analytics Data
+Search Console:Orphan URLs
+Search Console:URL is Not on Google
+Search Console:Indexable URL Not Indexed
+Search Console:URL is on Google But Has Issues
+Search Console:User-Declared Canonical Not Selected
+Search Console:Page is Not Mobile Friendly
+Search Console:AMP URL Invalid
+Search Console:Rich Result Invalid
+Security:All
+Security:HTTP URLs
+Security:HTTPS URLs
+Security:Mixed Content
+Security:Form URL Insecure
+Security:Form on HTTP URL
+Security:Unsafe Cross-Origin Links
+Security:Missing HSTS Header
+Security:Bad Content Type
+Security:Missing X-Content-Type-Options Header
+Security:Missing X-Frame-Options Header
+Security:Protocol-Relative Resource Links
+Security:Missing Content-Security-Policy Header
+Security:Missing Secure Referrer-Policy Header
+Sitemaps:All
+Sitemaps:URLs in Sitemap
+Sitemaps:URLs not in Sitemap
+Sitemaps:Orphan URLs
+Sitemaps:Non-Indexable URLs in Sitemap
+Sitemaps:URLs in Multiple Sitemaps
+Sitemaps:XML Sitemap with over 50k URLs
+Sitemaps:XML Sitemap over 50MB
+Structured Data:All
+Structured Data:Contains Structured Data
+Structured Data:Missing
+Structured Data:Validation Errors
+Structured Data:Validation Warnings
+Structured Data:Rich Result Validation Errors
+Structured Data:Rich Result Validation Warnings
+Structured Data:Parse Errors
+Structured Data:Microdata URLs
+Structured Data:JSON-LD URLs
+Structured Data:RDFa URLs
+Structured Data:Rich Result Feature Detected
+UNDEF:Unknown
+URL:All
+URL:Non ASCII Characters
+URL:Underscores
+URL:Uppercase
+URL:Parameters
+URL:Over X Characters
+URL:Multiple Slashes
+URL:Repetitive Path
+URL:Contains Space
+URL:Broken Bookmark
+URL:Internal Search
+URL:GA Tracking Parameters
+Validation:All
+Validation:Invalid HTML Elements in <head>
+Validation:<head> Not First In <html> Element
+Validation:Missing <head> Tag
+Validation:Multiple <head> Tags
+Validation:Missing <body> Tag
+Validation:Multiple <body> Tags
+Validation:HTML Document Over 15MB
+Validation:Resource Over 15MB
+Validation:<body> Element Preceding <html>
+Validation:High Carbon Rating
+Validation:High Carbon Rating

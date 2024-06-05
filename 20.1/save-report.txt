@@ -1,0 +1,54 @@
+Crawl Overview
+Issues Overview
+Segments Overview
+Redirects:All Redirects
+Redirects:Redirect Chains
+Redirects:Redirect & Canonical Chains
+Canonicals:Canonical Chains
+Canonicals:Non-Indexable Canonicals
+Pagination:Non-200 Pagination URLs
+Pagination:Unlinked Pagination URLs
+Hreflang:All hreflang URLs
+Hreflang:Non-200 hreflang URLs
+Hreflang:Unlinked hreflang URLs
+Hreflang:Missing Return Links
+Hreflang:Inconsistent Language & Region Return Links
+Hreflang:Non Canonical Return Links
+Hreflang:Noindex Return Links
+Insecure Content
+SERP Summary
+Orphan Pages
+Structured Data:Validation Errors & Warnings Summary
+Structured Data:Validation Errors & Warnings
+Structured Data:Google Rich Results Features Summary
+Structured Data:Google Rich Results Features
+Javascript:Javascript Console Log Summary
+PageSpeed:PageSpeed Opportunities Summary
+PageSpeed:CSS Coverage Summary
+PageSpeed:JavaScript Coverage Summary
+PageSpeed:Eliminate Render-Blocking Resources
+PageSpeed:Properly Size Images
+PageSpeed:Defer Offscreen Images
+PageSpeed:Minify CSS
+PageSpeed:Minify JavaScript
+PageSpeed:Reduce Unused CSS
+PageSpeed:Reduce Unused JavaScript
+PageSpeed:Efficiently Encode Images
+PageSpeed:Serve Images in Next-Gen Formats
+PageSpeed:Enable Text Compression
+PageSpeed:Preload Key Requests
+PageSpeed:Use Video Formats for Animated Content
+PageSpeed:Avoid Serving Legacy JavaScript to Modern Browsers
+PageSpeed:Avoid Excessive DOM Size
+PageSpeed:Reduce JavaScript Execution Time
+PageSpeed:Serve Static Assets with an Efficient Cache Policy
+PageSpeed:Minimize Main-Thread Work
+PageSpeed:Ensure Text Remains Visible During Webfont Load
+PageSpeed:Avoid Large Layout Shifts
+PageSpeed:Image Elements Do Not Have Explicit Width & Height
+Mobile:Viewport Not Set
+Mobile:Target Size
+Mobile:Content Not Sized Correctly
+Mobile:Illegible Font Size
+HTTP Headers:HTTP Header Summary
+Cookies:Cookie Summary
